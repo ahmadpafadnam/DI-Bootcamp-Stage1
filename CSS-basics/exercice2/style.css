@@ -1,0 +1,15 @@
+.impair{
+    background-color: pink;
+    font-family: Verdana,DejaVu sans,sans-serif;/* une liste de police secours */
+}
+#para{
+    font-size: 36px;
+    color: blue;
+}
+.taille{
+    font-size: 24px;
+}
+.fond-gras{
+    background-color: aquamarine;
+    font-weight: bold;
+}

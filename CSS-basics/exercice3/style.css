@@ -1,0 +1,17 @@
+.police{
+    background-color: black;
+    color: white;
+}
+.fond{
+    background-color: yellow;
+}
+.police,.fond{
+    font-size: 28px;
+    border: 3px solid aliceblue;
+    font-family: Helvetica,Times New Roman,sans-serif;
+}
+/*  
+button{
+    border: 3px solid aliceblue;
+}
+ */

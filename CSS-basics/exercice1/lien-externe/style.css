@@ -1,0 +1,15 @@
+div{
+    background-color: red;/* le fond d'ecran*/
+    color: white;/*couleur du texte*/
+    font-size: 32px;
+    font-weight: bold; /* texte en gras*/
+}
+p{
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+button{
+    background-color: orange;
+    font-size: 18PX;
+}
