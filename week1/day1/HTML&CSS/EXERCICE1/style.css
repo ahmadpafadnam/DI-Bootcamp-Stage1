@@ -12,9 +12,14 @@ div{
     text-align: center;
     color: red;
     border: 1px solid red;
+    width: 95.7%;  /* la largeur du block*/
 }
 th,td{
     border: 2px solid black;
+}
+.table{
+    width: 50%;
+    height: 30px;
 }
 #image{
     align-items: center;
