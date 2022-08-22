@@ -1,0 +1,28 @@
+span{
+    background-color: yellow;
+}
+h4{
+    text-decoration: underline;
+}
+div{
+    text-align: center;
+    align-items: center;
+}
+.diff{
+    text-align: center;
+    color: red;
+    border: 1px solid red;
+}
+th,td{
+    border: 2px solid black;
+}
+
+table{
+    /*text-align: center;*/
+   /* align-items: center;*/
+}
+#image{
+    align-items: center;
+     text-align: center;
+     display: block; 
+}
