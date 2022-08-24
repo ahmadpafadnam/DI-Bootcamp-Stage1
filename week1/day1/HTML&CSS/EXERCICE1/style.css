@@ -12,14 +12,14 @@ div{
     text-align: center;
     color: red;
     border: 1px solid red;
-    width: 95.7%;  /* la largeur du block*/
+    width: 95.7%;  /* la largeur du block cellule*/
 }
 th,td{
     border: 2px solid black;
 }
 .table{
     width: 50%;
-    height: 30px;
+    height: 30px; /* la hauteur du block cellule */
 }
 #image{
     align-items: center;
